@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_margin_top">6dp</dimen>
+    <dimen name="card_margin_start">12dp</dimen>
+    <dimen name="card_elevation">0dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="card_album_radius">10dp</dimen>
+    <dimen name="song__thumb_weight">100dp</dimen>
+    <dimen name="card_content_padding">10dp</dimen>
+    <dimen name="song_title">18sp</dimen>
+    <dimen name="song_content">16sp</dimen>
+    <dimen name="song_desc">12sp</dimen>
+    <dimen name="main_image">400dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="big_title">24sp</dimen>
+</resources>

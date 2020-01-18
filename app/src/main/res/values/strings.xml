@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Song Viewer</string>
+    <string name="no_songs_available">No Songs Available!</string>
+    <string name="error_network">Error in fetching songs. Please try again later.</string>
+    <string name="released_date">Released Date</string>
+    <string name="play_on_itunes">Play on iTunes</string>
+    <string name="album">Album</string>
+    <string name="transition_name">zoom</string>
+</resources>
